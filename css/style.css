@@ -1,0 +1,168 @@
+  body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #dddddd url(../img/plano\ de\ fundo.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+.header h2{
+    margin-left: 44%;
+    margin-top: 8%;
+    font-size: 200%;
+}
+
+
+/* mexer no video */
+.contents video{
+    margin-top: -1%;
+    margin-bottom: 13px;
+    border-radius: 1em;
+}
+
+
+/* altura da sub pagina e contorno */
+.container{
+    margin: 3% auto;
+    width: 80%;
+    text-align: left;
+    background: #00000077;
+    border: 1px solid rgba(0, 0, 0, 0.249);
+}
+/* largura da listra*/
+.mainav{
+    background-color: rgb(255, 255, 255);
+    color: rgb(221, 29, 29);
+    padding: 0 0 2px;
+    margin-bottom: 2%;
+    margin-top: 3%;
+}
+
+.mainav li{
+    display: inline;
+    padding: 0 1%;
+    margin-left: 10%;
+}
+
+.mainav li a{
+    text-decoration: none;
+    color:rgb(66, 160, 69);
+    font-size: 130%;
+    
+}
+
+.mainav li a:hover{
+    text-decoration: none;
+    color:rgb(37, 175, 12);
+    font-size: 20px;
+    background-color: rgb(238, 200, 134);
+}
+
+.contents{
+    float: left;
+    width: 65%;
+    margin: 0 0 0 3%;
+    margin-left: 550px;
+}
+
+.contents p{
+    font-size: 21px;
+    text-align: justify;
+}
+h3{
+    font-size: 120%;
+}
+.lista{
+font-size: 20px;
+
+}
+.footer{
+    clear: both;
+    background-color: rgb(255, 255, 255);
+    color:rgb(15, 146, 24);
+    text-align: right;
+    font-size: 14px;
+    padding: 1%;
+    font-weight: bold;
+    margin-top: 1%;
+}
+
+.logo{
+    width: 10%;
+    height: 12%;
+    float: left;
+    margin-top: -7.5%;
+    margin-left: 0.5%;
+}
+
+.carrossel {
+    display: inline-block;
+    margin-top: 10%;
+    padding: 2%;
+    border-radius: 1em;
+    background-color: burlywood;
+    margin-top: 200%;;
+  }
+  
+  img {
+    width: 200px;
+    height: 200px;
+    border-radius: 1em;
+    
+  }
+
+  .mapa{
+      margin-left: 3%;
+  }
+
+
+  .contents table{
+      margin-left: 13%;
+      text-align: center;
+      margin-top: 5%;
+      }
+
+  .whatsapp{
+      margin-left: 24%;
+      width: 60px;
+      height: 60px;
+      margin-top: 5%;
+  }
+
+  figure.imagem{
+      display: inline-block;
+      margin-left: 12.5%;
+      padding: 1%;
+      border-radius: 1px;
+      background: #ffffff;
+      text-align: center;
+  }
+
+  figcaption,a{
+      font-size: 18px;
+      text-decoration: none;
+      color: #118a48;
+  }
+
+  figure.imagem:hover{
+      background: rgb(238, 200, 134);
+  }
+
+  .grupo{
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 20px;
+      margin-top: 1%;
+      margin-left: -53%;
+      padding: 2%;
+      width: 500px;
+      margin-bottom: 8%;
+  }
+
+video {
+    float: left;
+    height: 10%;
+}
